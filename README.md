@@ -31,11 +31,17 @@ Key questions investigated:
 
 Each visualization is accompanied by a concise conclusion describing the insights.
 
+### phase 3: Dashboard
+making dashboard using streamlit python library.
+
 ---
 ## Dashboard Preview
 
 ### Overview
-![Dashboard](images/dashboard_overview.png)
+![Dashboard](Dashboard/Patient_noshow.gif)
+
+![Dashboard](Dashboard/noshow.png)
+
 
 ---
 
@@ -89,8 +95,11 @@ Each visualization is accompanied by a concise conclusion describing the insight
 ## Technologies
 - Python 3.x
 - Pandas & NumPy for data manipulation
+- pandas plotly for visualization
+- pandas streamlit for dashboard
 - Matplotlib & Seaborn for visualization
 - Jupyter Notebook for interactive analysis
+  
 
 ---
 
