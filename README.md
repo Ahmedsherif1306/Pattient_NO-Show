@@ -95,9 +95,8 @@ making dashboard using streamlit python library.
 ## Technologies
 - Python 3.x
 - Pandas & NumPy for data manipulation
-- pandas plotly for visualization
-- pandas streamlit for dashboard
-- Matplotlib & Seaborn for visualization
+- plotly for visualization
+-  streamlit for dashboard
 - Jupyter Notebook for interactive analysis
   
 
